@@ -1,6 +1,6 @@
-# Dokumentasi Responsivitas Website - SayurKu
+# Dokumentasi Responsivitas Website - RidosaurusStore
 
-Berikut adalah perbandingan tampilan antarmuka website (Katalog Sayuran) pada berbagai ukuran layar perangkat:
+Berikut adalah perbandingan tampilan antarmuka website Katalog Sayuran pada berbagai ukuran layar perangkat:
 
 | Tampilan Laptop | Tampilan Tablet | Tampilan HP |
 | :---: | :---: | :---: |
